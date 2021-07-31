@@ -61,4 +61,5 @@ public class Location {
     public int hashCode() {
         return Objects.hash(city, country, street, builing);
     }
+
 }

@@ -6,3 +6,4 @@ public enum Country {
     USA,
     BRAZIL;
 }
+
